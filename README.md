@@ -1,28 +1,6 @@
 
----
-```md
-<div align="center">
-  <img width="1200" height="475" alt="MBTI Vibe Banner" src="YOUR_BANNER_IMAGE_URL_HERE" />
-</div>
 
-<h1 align="center">MBTI Vibe</h1>
 
-<p align="center">
-  Decode personality vibes from text, images, and aesthetic expression.
-</p>
-
-<p align="center">
-  MBTI Vibe is a multimodal AI web app that reads captions, posts, quotes, poems, and visuals
-  to infer the most likely MBTI vibe through conversational analysis and beautiful result pages.
-</p>
-
-<p align="center">
-  <a href="YOUR_LIVE_DEMO_URL"><strong>Live Demo</strong></a>
-  ·
-  <a href="YOUR_AI_STUDIO_URL"><strong>AI Studio</strong></a>
-</p>
-
----
 
 ## What It Does
 
@@ -44,11 +22,7 @@ it reads the vibe, explains the signals, explores uncertainty, and returns a pol
 - View a structured result page
 - Generate a shareable result card
 
-## Screenshots
 
-![Screenshot 1](YOUR_IMAGE_URL_1)
-![Screenshot 2](YOUR_IMAGE_URL_2)
-![Screenshot 3](YOUR_IMAGE_URL_3)
 
 ## Local Development
 
