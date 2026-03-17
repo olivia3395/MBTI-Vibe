@@ -57,7 +57,7 @@ To demonstrate the app, I tested it on **Li Bai**, one of the most celebrated po
 
 Li Bai is known for his bold imagination, emotional intensity, cosmic scale, romantic freedom, and unrestrained poetic energy. His verses often move between intoxication, loneliness, transcendence, friendship, moonlight, mountains, and the vastness of the universe. Rather than focusing on restraint or order, his poetry radiates spontaneity, passion, symbolic thinking, and an almost explosive appetite for life.
 
-In this example, **MBTI Vibe** interprets Li Bai's poetic voice as a very典型的 **ENFP vibe**: exuberant, idealistic, emotionally vivid, freedom-loving, and overflowing with imaginative energy.
+In this example, **MBTI Vibe** interprets Li Bai's poetic voice as a very **ENFP vibe**: exuberant, idealistic, emotionally vivid, freedom-loving, and overflowing with imaginative energy.
 
 Again, this does **not** mean Li Bai himself “was definitely ENFP.”  
 It means that **the content and expressive aura of his poetry strongly give off an ENFP-like vibe**.
