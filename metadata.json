@@ -1,0 +1,5 @@
+{
+  "name": "MBTI Vibe Analyzer",
+  "description": "A conversational, multimodal personality-vibe analyzer that infers MBTI styles from text and images.",
+  "requestFramePermissions": []
+}
