@@ -77,6 +77,8 @@ Of course, I had to test **MBTI Vibe** on myself too.
 
 I used my own 朋友圈 content, and the app read me as **ENFJ** — which is exactly what I usually get from MBTI tests as well. Very on brand. So yes — at least in my case, the vibe check passed ✨
 
+![My Result 3](./vibe6.png)
+
 
 
 ## What This App Tries to Capture
