@@ -12,7 +12,6 @@
   Multimodal · Conversational · Aesthetic · Shareable
 </p>
 
----
 
 ## Overview
 
@@ -28,7 +27,7 @@ The app then infers the **most likely MBTI vibe** of the content, explains the r
 > **Important:** MBTI Vibe does **not** claim to determine a person's real MBTI type.  
 > Instead, it explores **what kind of MBTI atmosphere or expressive energy your content gives off**.
 
----
+
 
 ## Features
 
@@ -39,7 +38,7 @@ The app then infers the **most likely MBTI vibe** of the content, explains the r
 - **Textual and visual evidence** sections
 - **Elegant and shareable result pages**
 
----
+
 
 ## Screenshots
 
@@ -49,7 +48,7 @@ The app then infers the **most likely MBTI vibe** of the content, explains the r
 ### Input Page
 ![Input Page](./vibe2.png)
 
----
+
 
 ## Example Analysis: Li Bai
 
@@ -71,7 +70,6 @@ It means that **the content and expressive aura of his poetry strongly give off 
 ### Evidence Page
 ![Li Bai Result 3](./vibe5.png)
 
----
 
 ## A Fun Personal Test
 
@@ -95,6 +93,5 @@ It asks questions such as:
 
 The result is an **MBTI vibe reading**, not a scientific diagnosis.
 
----
 
 
