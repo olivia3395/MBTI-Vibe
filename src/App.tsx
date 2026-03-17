@@ -312,10 +312,13 @@ export default function App() {
       </main>
 
       {/* Footer Disclaimer */}
-      <footer className="py-12 px-6 text-center">
+      <footer className="py-12 px-6 text-center space-y-4">
         <p className="text-[10px] text-blue-200 uppercase tracking-[0.3em] max-w-md mx-auto leading-relaxed">
           {t.disclaimer}
         </p>
+        <div className="text-[10px] text-stone-400 uppercase tracking-[0.2em] font-light">
+          © 2026 Yuyao Wang • <a href="mailto:yuyaow@bu.edu" className="hover:text-mbti-blue transition-colors">yuyaow@bu.edu</a>
+        </div>
       </footer>
     </div>
   );

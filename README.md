@@ -1,30 +1,12 @@
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
 
+# Run and deploy your AI Studio app
 
-# MBTI Vibe 
+This contains everything you need to run your app locally.
 
-## What It Does
-
-MBTI Vibe helps users analyze the personality vibe behind:
-- Instagram posts and captions
-- WeChat moments /朋友圈 style content
-- poems, quotes, and fictional dialogue
-- curated visual aesthetics
-- mixed text-image self-expression
-
-Instead of acting like a standard test, it works like a **conversational analyst**:
-it reads the vibe, explains the signals, explores uncertainty, and returns a polished MBTI-style interpretation.
-
-## Core Experience
-
-- Upload text, images, or both
-- Get an initial MBTI vibe read
-- Refine the result through follow-up conversation
-- View a structured result page
-- Generate a shareable result card
-
-
-
-## Local Development
+View your app in AI Studio: https://ai.studio/apps/aab7cf36-36d2-429c-bae9-ee3ae07a7b78
 
 ## Run Locally
 
