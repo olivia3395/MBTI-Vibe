@@ -73,6 +73,16 @@ It means that **the content and expressive aura of his poetry strongly give off 
 
 ---
 
+## A Fun Personal Test
+
+Of course, I had to test **MBTI Vibe** on myself too.
+
+I used my own 朋友圈 content, and the app read me as **ENFJ** — which is exactly what I usually get from MBTI tests as well. Very on brand.
+
+So yes — at least in my case, the vibe check passed ✨
+
+
+
 ## What This App Tries to Capture
 
 MBTI Vibe is less like a rigid personality test and more like a **content aura interpreter**.
@@ -86,17 +96,5 @@ It asks questions such as:
 The result is an **MBTI vibe reading**, not a scientific diagnosis.
 
 ---
-
-## Run Locally
-
-### Prerequisites
-- Node.js
-
-### Setup
-
-1. Install dependencies:
-
-   ```bash
-   npm install
 
 
