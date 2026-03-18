@@ -61,10 +61,10 @@ In this example, **MBTI Vibe** interprets Li Bai's poetic voice as a very **ENFP
 Again, this does **not** mean Li Bai himself “was definitely ENFP.”  
 It means that **the content and expressive aura of his poetry strongly give off an ENFP-like vibe**.
 
-### Result Page
+### Input Page
 ![Li Bai Result 1](./vibe3.png)
 
-### Interpretation Page
+### Result Page
 ![Li Bai Result 2](./vibe4.png)
 
 ### Evidence Page
