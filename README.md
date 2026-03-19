@@ -24,6 +24,13 @@ The app then infers the **most likely MBTI vibe** of the content, explains the r
 > **Important:** MBTI Vibe does **not** claim to determine a person's real MBTI type.  
 > Instead, it explores **what kind of MBTI atmosphere or expressive energy your content gives off**.
 
+### Home Page
+![Home Page](./vibe1.png)
+
+### Input Page
+![Input Page](./vibe2.png)
+
+
 
 
 ## Features
@@ -36,14 +43,6 @@ The app then infers the **most likely MBTI vibe** of the content, explains the r
 - **Elegant and shareable result pages**
 
 
-
-## Screenshots
-
-### Home Page
-![Home Page](./vibe1.png)
-
-### Input Page
-![Input Page](./vibe2.png)
 
 
 
